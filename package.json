@@ -1,14 +1,23 @@
 {
   "name": "eslint-config-lewis-s-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint rules I favour for React apps.",
   "license": "MIT",
   "keywords": [
     "eslint",
     "eslintconfig",
-    "eslint-config"
+    "eslint-config",
+    "react"
   ],
   "author": "Lewis S",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/miniscoggs/eslint-config-lewis-s-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miniscoggs/eslint-config-lewis-s-react/issues"
+  },
+  "homepage": "https://github.com/miniscoggs/eslint-config-lewis-s-react#readme",
   "main": "./index.js",
   "exports": "./index.js",
   "dependencies": {
