@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lewis-s-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint rules I favour for React apps.",
   "license": "MIT",
   "keywords": [
